@@ -1,6 +1,6 @@
 # Code-for-the-interview
 
-This repository contains the samples of code related to the job vacancy of Senior Software Developer at Science and Technology Facilities Council at Daresbury. 
+This repository contains the samples of code. 
 
 * The LLMs forlder contains the code for interacting with pre-trained LLMs (Information extraction, and Chat-agent to interact with Materials Project). 
 
