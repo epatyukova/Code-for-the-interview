@@ -1,1 +1,4 @@
+# CrabNet for multiproperty prediction
 
+This is version of CrabNet was created for multiproperty prediction. The model is composed of a common encoder (Embedder+Attention Layers) 
+and separate ResNet heads (one for each property). Properties used were Formation Energy, Energy Above Hull, Stability, Disorder (so two regression tasks and two classification tasks) the loss was taken as a sum of losses from all heads. Each material in train/test set should have at least one property. 
